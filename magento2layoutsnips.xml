@@ -18,3 +18,8 @@
     <update handle="default_head_blocks"/>
     .....
 </page>
+
+<!-- Call FormKey Block in the page/form -->
+<referenceContainer name="content">
+	<block class="Magento\Framework\View\Element\FormKey" name="formkey"/>
+</referenceContainer>
