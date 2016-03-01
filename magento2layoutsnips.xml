@@ -2,3 +2,8 @@
 <move element="<block_identifier>" destination="<destination_block_identifier>" after/before="<block_identifier>"/>
 <!--Example-->
 <move element="top.search" destination="header-top-section" after="header.links"/>
+
+<!-- To remove block from layout -->
+<referenceBlock name="<block_identifier>" remove="true" />
+<!--Example-->
+<referenceBlock name="skip_to_content" remove="true" />
