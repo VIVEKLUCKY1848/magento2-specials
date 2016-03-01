@@ -23,3 +23,18 @@
 <referenceContainer name="content">
 	<block class="Magento\Framework\View\Element\FormKey" name="formkey"/>
 </referenceContainer>
+
+<!--Footer links with class-->
+<container name="footer" as="footer" label="Page Footer" htmlTag="div" htmlClass="footer content">
+    <block class="Magento\Framework\View\Element\Html\Links" name="footer_links">
+        <arguments>
+            <argument name="css_class" xsi:type="string">footer links</argument>
+        </arguments>
+    </block>
+    <block class="Magento\Framework\View\Element\Template" name="report.bugs" template="Magento_Theme::html/bugreport.phtml" />
+        <block class="Magento\Cms\Block\Block" name="footer_links_block" >
+            <arguments>
+                <argument name="block_id" xsi:type="string">footer_links_block</argument>
+            </arguments>
+    </block>
+</container>
