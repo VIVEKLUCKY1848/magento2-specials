@@ -7,3 +7,14 @@
 <referenceBlock name="<block_identifier>" remove="true" />
 <!--Example-->
 <referenceBlock name="skip_to_content" remove="true" />
+
+<!-- Default page layout encloser -->
+<page layout="<layout_type>" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <update handle="default_head_blocks"/>
+    .....
+</page>
+<!-- Example-->
+<page layout="3columns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <update handle="default_head_blocks"/>
+    .....
+</page>
