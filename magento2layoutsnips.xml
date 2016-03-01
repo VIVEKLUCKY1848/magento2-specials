@@ -1,0 +1,4 @@
+<!-- To move any block anywhere in the page/section -->
+<move element="<block_identifier>" destination="<destination_block_identifier>" after/before="<block_identifier>"/>
+<!--Example-->
+<move element="top.search" destination="header-top-section" after="header.links"/>
