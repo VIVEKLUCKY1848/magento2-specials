@@ -31,3 +31,7 @@ https://www.shopping-cart-migration.com/blog/42-magento/43708-the-key-difference
 Magento 2 Migration Overview
 
 http://astrio.net/blog/migration-to-magento-2/
+
+Migration Verification for Magento 2
+
+http://magento.stackexchange.com/questions/101369/magento-2-migration-tool-verify-if-migration-is-successful-from-1-9-2-0-ce
