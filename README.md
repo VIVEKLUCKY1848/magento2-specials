@@ -15,6 +15,8 @@ https://github.com/AmastyLtd/Magento-2-Module-Creator
 
 https://amasty.com/magento-2-module-creator.html
 
+http://schogini.biz/magento-2-module-builder/
+
 
 Magento 2 Data Migration Tool
 
