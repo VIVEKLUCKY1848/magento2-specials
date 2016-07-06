@@ -21,3 +21,7 @@ Magento 2 Data Migration Tool
 https://www.ubertheme.com/magento-news/magento-2-data-migration-tool/
 
 http://devdocs.magento.com/guides/v2.0/migration/migration-tool-configure.html
+
+Difference between Magento 1.x and 2.x
+
+https://www.shopping-cart-migration.com/blog/42-magento/43708-the-key-differences-between-magento-1x-and-20
