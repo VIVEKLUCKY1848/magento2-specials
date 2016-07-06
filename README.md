@@ -27,3 +27,7 @@ http://devdocs.magento.com/guides/v2.0/migration/migration-tool-configure.html
 Difference between Magento 1.x and 2.x
 
 https://www.shopping-cart-migration.com/blog/42-magento/43708-the-key-differences-between-magento-1x-and-20
+
+Magento 2 Migration Overview
+
+http://astrio.net/blog/migration-to-magento-2/
