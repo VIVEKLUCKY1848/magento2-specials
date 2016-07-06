@@ -19,3 +19,5 @@ https://amasty.com/magento-2-module-creator.html
 Magento 2 Data Migration Tool
 
 https://www.ubertheme.com/magento-news/magento-2-data-migration-tool/
+
+http://devdocs.magento.com/guides/v2.0/migration/migration-tool-configure.html
