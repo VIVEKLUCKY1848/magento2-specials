@@ -5,3 +5,4 @@ php bin/magento module:enable MagePsycho_Easypathhints --clear-static-content
 php bin/magento module:enable {Namespace}_{Module} --clear-static-content
 php bin/magento setup:upgrade
 php bin/magento setup:static-content:deploy
+#Clear everything in var/ except "composer_home" & ".htaccess"
